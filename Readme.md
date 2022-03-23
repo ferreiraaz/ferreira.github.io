@@ -10,7 +10,7 @@
 
 >merda pra todo lado
 
-###lista não ordenada
+### lista não ordenada
 
 - Manga
     - verde
@@ -19,6 +19,6 @@
     - Argentina
 
 
-####Imagens locais
+#### Imagens locais
 
 ![python](python.png 'Python')
